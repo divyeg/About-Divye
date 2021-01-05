@@ -1,8 +1,9 @@
-# Hello-World
-Learning Github
+# Resume - Divye Anand Gupta
 
-Hi there!
+# LINKEDIN: www.linkedin.com/in/divyeagupta
 
-This is Divye Anand Gupta, a MS candidate in Business Analytics Program at Purdue University. I am a Data Science enthusiast aiming to learn simple predictive algorithms of data science to solve complex real-life problems. 
+# Education:
+Purdue University: Master of Science, Business Analytics and Information Management; Indian, USA; June 2018 - May 2019
+Indian Institute of Technology, Roorkee: Bachelor of Technology, Production and Industrial Engineering; Uttrakhand, India; July 2011 - May 2015
 
-Do let me know if you like my work.
+
